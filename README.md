@@ -24,15 +24,15 @@ The system allows users to load data from the database and perform CRUD operatio
 
 ## 📂 Project Structure
 
-
 Library-Management-System/
-│── LibraryApp.java
-│── Book.class
-│── Member.class
-│── LibraryApp.class
-│── LibraryDB.sql
-│── mysql-connector-j-9.3.0.jar
-│── README.md
+│
+├── LibraryApp.java
+├── Book.class
+├── Member.class
+├── LibraryApp.class
+├── LibraryDB.sql
+├── mysql-connector-j-9.3.0.jar
+└── README.md
 
 
 ---
