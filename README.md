@@ -1,6 +1,7 @@
 📚 Library Management System
 
-A simple Library Management System developed using Java, MySQL, and JDBC to manage book and member records efficiently. The system allows users to load data from the database and perform CRUD operations.
+A simple Library Management System developed using Java, MySQL, and JDBC to manage book and member records efficiently.
+The system allows users to load data from the database and perform CRUD operations.
 
 🚀 Features
 Manage book and member records
@@ -21,18 +22,18 @@ Library-Management-System/
 │── mysql-connector-j-9.3.0.jar
 │── README.md
 ⚙️ Setup & Installation
-1️⃣ Clone the Repository
+1. Clone the Repository
 git clone https://github.com/Sach791/Library-Management-System.git
 cd Library-Management-System
-2️⃣ Setup MySQL Database
+2. Setup MySQL Database
 Open MySQL Workbench or Command Line
 Run the SQL file:
 SOURCE LibraryDB.sql;
-3️⃣ Add JDBC Driver
+3. Add JDBC Driver
 Ensure mysql-connector-j-9.3.0.jar is added to your project classpath
-4️⃣ Compile the Project
+4. Compile the Project
 javac -cp ".;mysql-connector-j-9.3.0.jar" LibraryApp.java
-5️⃣ Run the Application
+5. Run the Application
 java -cp ".;mysql-connector-j-9.3.0.jar" LibraryApp
 💡 Usage
 Select table (Books / Members)
