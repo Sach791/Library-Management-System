@@ -24,8 +24,9 @@ The system allows users to load data from the database and perform CRUD operatio
 
 ## 📂 Project Structure
 
+
 Library-Management-System/
-│
+
 ├── LibraryApp.java
 ├── Book.class
 ├── Member.class
